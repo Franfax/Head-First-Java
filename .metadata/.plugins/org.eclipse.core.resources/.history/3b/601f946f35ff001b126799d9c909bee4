@@ -1,0 +1,21 @@
+package guessGame;
+
+import java.util.ArrayList;
+
+public class GuessGame {
+	
+	
+	void guessGameStarts(){
+	System.out.println("	Welcome to a new party of GuessGame! \n	We have 4 news cantidates for this session!\n");
+	}
+	
+	
+	Player player1 = new Player("Maurice");
+	Player player2 = new Player("Albert");
+	Player player3 = new Player("Mathilde");
+	Player player4 = new Player("Chloé");
+	
+	player1;
+	
+
+}

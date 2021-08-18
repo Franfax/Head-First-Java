@@ -1,0 +1,10 @@
+package guessGame;
+
+public class GuessGame {
+	
+	
+	void guessGameStarts(){
+	System.out.println("Welcome to a new party of GuessGame! \n We have 4 news cantidates for this session!");
+	}
+
+}
